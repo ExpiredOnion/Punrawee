@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Punrawee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++,c,f#,react,flutter,eletron
-- 💞️ I’m looking to collaborate on discord,slack
-- 📫 How to reach me 
+- 👋 Hi, I’m Punrawee Ketyungyuenwong
+- 👀 I’m interested in machinr learning,ai,competitive programming,dev ops
+- 🌱 I’m currently learning f#,react,eletron
+- 📫 How to reach me https://www.instagram.com/ppune.kt/
+-                    https://twitter.com/ketyungyuenwong 
+-                    EMAIL : pro4plusstudio@gmail.com  or punrawee.ket@gmail.com  
 
 <!---
 Punrawee/Punrawee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
