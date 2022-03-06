@@ -1,6 +1,6 @@
 # Hi there, I'm Punrawee K. 👋 
 
-[twitter](https://twitter.com/ketyungyuenwong)
+[Twitter](https://twitter.com/ketyungyuenwong)
 [Website](https://punraweeketyungyuenwong.godaddysites.com/)
 
 
@@ -13,4 +13,4 @@
 
 [website]: https://punraweeketyungyuenwong.godaddysites.com/
 [course]: https://punraweeketyungyuenwong.godaddysites.com/course
-[twitter]: https://twitter.com/ketyungyuenwong
+[Twitter]: https://twitter.com/ketyungyuenwong
